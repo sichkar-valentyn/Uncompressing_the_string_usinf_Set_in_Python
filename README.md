@@ -7,7 +7,7 @@ Uncompressing string by the rule a3 = aaa
 ## Description
 Uncompressing the string from the file using Set with numbers and the rule a3 = aaa.
 
-## GUI in Python
+## Results
 ![Result](images/Uncompressing_the_string_using_Set_in_Python.png)
 
 ## MIT License
