@@ -1,3 +1,14 @@
+# File: Uncompressing_the_string_using_Set_in_Python.py
+# Description: Uncompressing the string using Set in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Uncompressing the string using Set in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Uncompressing_the_string_using_Set_in_Python (date of access: XX.XX.XXXX)
+
 # Implementing the task
 # Reading the string from the file
 # Uncompressing the line by the rule - a3 = aaa
