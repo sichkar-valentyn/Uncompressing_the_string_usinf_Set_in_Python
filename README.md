@@ -1,6 +1,9 @@
 # Uncompressing the string using Set in Python
 Uncompressing string by the rule a3 = aaa
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Uncompressing the string using Set in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Uncompressing_the_string_using_Set_in_Python (date of access: XX.XX.XXXX)
 
